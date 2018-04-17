@@ -1,3 +1,2 @@
 # Welcome to Callamas Github Website!
-## In this website, I will have links to many things!
-
+## I don't have much use for this yet, but hey Its here! 
